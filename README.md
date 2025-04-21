@@ -5,7 +5,7 @@
 ### 📌 ¿Qué encontrarás aquí?
 
 - 📊 **Notebooks de análisis exploratorio de datos**  
-- 🎮 **Algún minijuego desarrollados en Python**  
+- 🎮 **Algún minijuego desarrollado en Python**  
 - 💻 **Ejercicios con SQL**  
 - 📈 **Dashboards desarrollados con Tableau**  
 - 🤖 **Primeros pasos en Machine Learning** (¡en camino!)
