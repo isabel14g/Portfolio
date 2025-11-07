@@ -31,7 +31,7 @@ Mi objetivo es **desarrollarme como Analista de Datos / Data Scientist Junior**,
 
 📧 **Email:** isabelgiraldoal@gmail.com  
 🔗 **GitHub:** https://github.com/isabel14g  
-💼 **LinkedIn:** *[LinkedIn](https://www.linkedin.com/in/isabel-giraldo-%C3%A1lvarez-/)
+💼 **LinkedIn:** *[Isabel Giraldo Alvarez](https://www.linkedin.com/in/isabel-giraldo-%C3%A1lvarez-/)
 *
 
 ✨ *Gracias por visitar mi portafolio. ¡Cualquier comentario o colaboración es bienvenido!*  
