@@ -1,0 +1,16 @@
+# --- Archivos temporales de Tableau ---
+*.hyper
+*.temp
+*.tds
+*.tde
+
+# --- Archivos temporales de Excel/Windows ---
+~$*
+Thumbs.db
+.DS_Store
+
+# --- Carpetas de caché o backup (si existieran) ---
+__pycache__/
+
+# --- Si NO quieres subir los datos originales, descomenta esta línea ---
+# Data/
