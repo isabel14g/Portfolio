@@ -1,0 +1,21 @@
+# Ignorar checkpoints de Jupyter Notebook
+.ipynb_checkpoints/
+
+# Ignorar cachés de Python
+__pycache__/
+*.pyc
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+
+# Si quieres evitar subir imágenes o gráficos generados
+*.png
+*.jpg
+
+# Si NO quieres subir el dataset (opcional):
+dataset.csv
+
+# Configuraciones locales de entorno (opcional)
+.venv/
+env/
