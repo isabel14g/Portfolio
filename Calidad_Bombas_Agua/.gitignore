@@ -1,0 +1,28 @@
+# === Ignorar checkpoints de Jupyter Notebook ===
+.ipynb_checkpoints/
+
+# === Ignorar cachés de Python ===
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# === Archivos temporales de sistema ===
+.DS_Store
+Thumbs.db
+~$*
+
+# === Entornos virtuales (si se usan) ===
+.venv/
+venv/
+env/
+
+# === Archivos de configuración o logs ===
+*.log
+
+# === Evitar que se suban datasets muy pesados (opcional) ===
+# Descoméntalo si no quieres subir la carpeta Data
+# Data/
+
+# === Archivos de resultados automáticos (opcional) ===
+# 2_final_submit.csv
