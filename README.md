@@ -10,7 +10,7 @@
 | **[Calidad_Bombas_Agua](./Calidad_Bombas_Agua)** | Modelo de Machine Learning para predecir si una bomba de agua está funcional, requiere reparación o no funciona | Python, Pandas, Scikit-learn |
 | **[Top_Football_Scorers_Analysis](./Top_Football_Scorers_Analysis)** | Análisis de los máximos goleadores históricos del fútbol internacional (50+ goles) | Python, Pandas, Seaborn, Kaggle |
 | **[Tableau_Loans](./Tableau_Loans)** | Dashboard interactivo sobre préstamos: tasas de aprobación, morosidad, ingresos y riesgo | Tableau |
-| **[Juego_Adivina_Numero](./Juego_Adivina_Numero)** | Minijuego en Python aplicando lógica, funciones y módulos | Python |
+| **[Juego_Adivina_Numero](./Juego_Adivinar_Numero)** | Minijuego en Python aplicando lógica, funciones y módulos | Python |
 
 
 ## 🛠️ Tecnologías y herramientas
