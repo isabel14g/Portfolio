@@ -1,6 +1,6 @@
 # Portfolio de Proyectos - Isabel Giraldo Álvarez
 
-¡Hola! Soy Isabel Giraldo Álvarez, profesional junior en Data Science, Big Data & Business Analytics en la Universidad Complutense de Madrid. Este repositorio reúne mis proyectos personales y académicos aplicados a análisis de datos, visualización, Machine Learning, SQL y Python.
+¡Hola! Soy Isabel Giraldo Álvarez, **Data Analyst Junior**, (UCM – Data Science, Big Data & Business Analytics, 2025). Este repositorio reúne mis proyectos personales y académicos aplicados a análisis de datos, visualización, Machine Learning, SQL y Python.
 
 
 ## 🚀 Proyectos Destacados
