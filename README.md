@@ -3,7 +3,16 @@
 ¡Hola! Soy Isabel Giraldo Álvarez, **Data Analyst Junior**, (UCM – Data Science, Big Data & Business Analytics, 2025). Este repositorio reúne mis proyectos personales y académicos aplicados a análisis de datos, visualización, Machine Learning, SQL y Python.
 
 
-## 🚀 Proyectos Destacados
+## ⭐ Proyectos destacados
+
+### 🏦 Bank Analytics Project – Data Analysis & Business Intelligence
+Proyecto end-to-end de análisis bancario utilizando Python, SQL y Power BI.  
+Incluye limpieza de datos, análisis con SQL y dashboard ejecutivo publicado en Power BI Service.
+
+🔗 Repositorio: https://github.com/isabel14g/bank-analytics-project
+
+
+## 🚀 Proyectos
 
 | 📂 Proyecto | 📝 Descripción | 🛠️ Tecnologías |
 |-------------|----------------|----------------|
