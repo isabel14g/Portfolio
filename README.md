@@ -5,14 +5,14 @@
 
 ## ⭐ Proyectos destacados
 
-### 🏦 Bank Analytics Project – Data Analysis & Business Intelligence
-Proyecto end-to-end de análisis bancario utilizando Python, SQL y Power BI.  
-Incluye limpieza de datos, análisis con SQL y dashboard ejecutivo publicado en Power BI Service.
+### 🏦 Bank Analytics Project – Data Analysis & BI
+Proyecto end-to-end de análisis bancario con enfoque en negocio.
+Incluye limpieza de datos con Python, análisis con SQL y dashboard ejecutivo en Power BI (publicado en Power BI Service).
 
-🔗 Repositorio: https://github.com/isabel14g/bank-analytics-project
+🔗 https://github.com/isabel14g/bank-analytics-project
 
 
-## 🚀 Proyectos
+## 🚀 Otros proyectos y ejercicios
 
 | 📂 Proyecto | 📝 Descripción | 🛠️ Tecnologías |
 |-------------|----------------|----------------|
